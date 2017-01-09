@@ -1,1 +1,1 @@
-FROM rhscl/php-56-rhel7
+FROM registry.access.redhat.com/rhscl/php-56-rhel7
