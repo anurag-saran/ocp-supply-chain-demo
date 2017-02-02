@@ -62,7 +62,7 @@ objects:
           value: ${COMPOSER_MIRROR}
         from:
           kind: ImageStreamTag
-          name: rdu-php-demo:latest
+          name: php-supply-chain-app:latest
           namespace: ${NAMESPACE}
       type: Source
     triggers:
